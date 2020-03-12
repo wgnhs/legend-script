@@ -160,7 +160,7 @@ function addHeading2(item) {
     var secondHeading = docRef.textFrames.add();
     secondHeading.contents= headingText; 
 
-    secondHeading.textRange.characterAttributes.textFont = textFonts.getByName("MinionPro-BoldCn");
+   // secondHeading.textRange.characterAttributes.textFont = textFonts.getByName("MinionPro-BoldCn");
     secondHeading.textRange.characterAttributes.size = 14;
     secondHeading.textRange.characterAttributes.leading = 14;
     secondHeading.textRange.characterAttributes.tracking = 0;
@@ -183,7 +183,7 @@ function addHeading3(item) {
     var thirdHeading = docRef.textFrames.add();
     thirdHeading.contents= headingText; 
     
-    thirdHeading.textRange.characterAttributes.textFont = textFonts.getByName("MinionPro-BoldCn");
+   // thirdHeading.textRange.characterAttributes.textFont = textFonts.getByName("MinionPro-BoldCn");
     thirdHeading.textRange.characterAttributes.size = 12;
     thirdHeading.textRange.characterAttributes.leading = 12;
     thirdHeading.textRange.characterAttributes.tracking = 0;
