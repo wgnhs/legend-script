@@ -1,0 +1,17 @@
+Symbol|Name|Description|AreaFillCMYK|ParagraphStyle
+|Postglacial Sediment|||Heading2
+o|Organic Sediment|Peat or organic sediment occupying low-lying, flat to low-relief surfaces; thickness varies but typically between one to several meters thick; underlying sediment indicated by adjacent map units.|20, 40, 50, 0|DMU1
+sm|Modern Stream Sediment|Silty, sandy, and gravelly sediment deposited by streams; flat to low relief floodplains. Mapped where extensive; present but unmapped adjacent to most streams. May include hillslope deposits derived from valley sides, especially where steep.|0, 0, 30, 0|DMU1
+|Miller Creek Formation|||Heading2
+b|Nearshore Sediment|Well sorted sand and gravel deposited in the nearshore and beaches of proglacial lakes.  Evidence of nearshore sediment transport common.|0,30,60,0|DMU1
+sp|Early Post-Glacial Stream Sediment|Stratified sand and gravelly sand deposted by nonglacial streams into proglacial lakes.  Derived from sandy Copper Falls Formation and difficult to distinguish lithologically from that Formation.  Map unit is identified by uncollapsed alluvial landforms located within pitted and collapsed meltwater-stream sediment. |0, 15, 0, 0|DMU1
+mcu|Undifferentiated Sediment of the Miller Creek Formation|Reddish clay-rich sediment of the Miller Creek Formation.  |60, 20, 0,0|DMU1
+mcb|Sediment of the Miller Creek Formation Modified by Wave Action|Reddish clay-rich sediment of the Miller Creek Formation with evidence of nearshore modification (typically wave-cut benches).  May include some areas of sandy nearshore sediment where adjacent to the Copper Falls Formation.  |80, 20, 0, 10|DMU1
+mcg|Glacial Sediment of the Miller Creek Formation|Reddish clay-rich sediment with hummocky bouldery surface.  Includes moraine crest and occurs high on the landscape on Mt Ashwabay and west of Bayfield.|100, 20, 0, 30|DMU1
+|Copper Falls Formation|||Heading2
+sc|Collapsed Meltwater-Stream Sediment|Stratified sand and gravelly sand deposited by streams carrying meltwater from the Superior Lobe and deposited on ice. Moderate to high relief surfaces. Original depositional surface recognizable in few areas because it was destroyed when buried ice melted. |0, 40, 0, 15|DMU1
+spt|Pitted Meltwater-Stream Sediment|Stratified sand and gravelly sand deposited by streams carrying meltwater from the Superior Lobe; flat to low relief interrupted by collapse depressions (pits) up to 50 m, but typically 30 m, deep. |5, 30, 10, 0 |DMU1
+sf|Meltwater-Stream Sediment in Fans|Stratified sand and gravelly sand deposited in fans by streams carrying meltwater from the Superior Lobe; flat to low relief. Original depositional surface recognizable in most areas.|5, 30, 10, 0|DMU1
+su|Meltwater-Stream Sediment|Stratified sand and gravelly sand deposited by streams carrying meltwater from the Superior Lobe; flat to low relief. Original depositional surface recognizable in most areas.|0, 40, 0, 15|DMU1
+gc|Glacial Sediment of the Copper Falls Formation|Unstratified to poorly stratified sandy gravel and gravelly sand deposited by the Superior Lobe. Boulders common at the surface, which is commonly intensely gullied.|50, 5, 60, 0|DMU1
+gch|Hummocky Glacial Sediment of the Copper Falls Formation|Unstratified to poorly stratified sandy gravel and gravelly sand deposited by the Superior Lobe, likley as it melted. Original depositional surface recognizable in few areas because it was destroyed when buried ice melted. Boulders common at the surface.|50, 5, 60, 0 |DMU1
